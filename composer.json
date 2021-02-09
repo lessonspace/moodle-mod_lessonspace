@@ -1,0 +1,6 @@
+{
+    "name": "lessonspace/moodle-mod_lessonspace",
+    "description": "Lessonspace plugin for Moodle",
+    "type": "project",
+    "license": "GPL-v3"
+}

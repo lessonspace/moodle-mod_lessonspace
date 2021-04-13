@@ -1,15 +1,15 @@
-# Lessonspace #
+# Lessonspace Moodle Plugin #
 
 ## Intro ##
 
-Lessonspace is the web based video conferencing and online collaboration tool (http://thelessonspace.com). 
+Lessonspace is the easiest way to teach online, with an online video conferencing and collaboration tool (https://www.thelessonspace.com). 
 This plugin offers integration with Moodle and supports Space management as well as providing the ability to add Spaces as an activity to a Course.
 
 ## Prerequisites ##
 
-This plugin requires that your organisation's Lessonspace account has access to it's API key. 
+This plugin requires that your organisation's Lessonspace account has access to its API key. 
 
-Your API key can be found in the [developer tab of the settings section of your dashboard](https://thelessonspace.com/settings/developer).
+Your API key can be found in the [developer tab of the settings section of your dashboard](https://www.thelessonspace.com/settings/developer).
 
 ## Installation ##
 

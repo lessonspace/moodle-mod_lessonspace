@@ -7,7 +7,7 @@ This plugin offers integration with Moodle and supports Space management as well
 
 ## Prerequisites ##
 
-This plugin requires that your organisation's Lessonspace account has access to its API key. 
+This plugin requires that your organisation's Lessonspace account has access to its API key.
 
 Your API key can be found in the [developer tab of the settings section of your dashboard](https://www.thelessonspace.com/settings/developer).
 

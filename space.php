@@ -24,7 +24,6 @@
 
 require_once dirname(dirname(dirname(__FILE__))).'/config.php';
 require_once dirname(__FILE__).'/lib.php';
-require_once dirname(__FILE__).'/classes/apiservice.php';
 
 // Course_module ID.
 $id = required_param('id', PARAM_INT);

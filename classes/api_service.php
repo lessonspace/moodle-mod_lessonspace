@@ -15,7 +15,7 @@
 // along with Moodle.  If not, see <http://www.gnu.org/licenses/>.
 
 /**
- * Handles API calls to Lessonspace REST API
+ * Handles API calls to Lessonspace REST API.
  *
  * @package   mod_lessonspace
  * @copyright 2021 Lessonspace, Inc
@@ -26,6 +26,12 @@ defined('MOODLE_INTERNAL') || die();
 
 require_once $CFG->dirroot . '/lib/filelib.php';
 
+/**
+ * API service class.
+ *
+ * @copyright 2021 Lessonspace, Inc
+ * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
+ */
 class mod_lessonspace_api_service
 {
     /**

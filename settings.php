@@ -33,7 +33,6 @@ if ($hassiteconfig) {
     if ($ADMIN->fulltree) {
         // Test whether connection works and display result to user.
         if (!CLI_SCRIPT && $PAGE->url == $CFG->wwwroot . '/' . $CFG->admin . '/settings.php?section=modsettingslessonspace') {
-            include_once $CFG->dirroot.'/mod/lessonspace/classes/apiservice.php';
             $key = 'apiconnected';
             $notifyclass = 'notifysuccess';
             $errormessage = '';

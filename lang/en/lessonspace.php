@@ -62,6 +62,10 @@ $string['modulename_help'] = 'The best way to teach online. Teach live, one-on-o
 
 $string['pluginadministration'] = 'Manage Lessonspace Space';
 $string['pluginname'] = 'Lessonspace';
+$string['privacy:metadata:lessonspace_api'] = 'In order to integrate with the Lessonspace API correctly, user data needs to be exchanged with the API.';
+$string['privacy:metadata:lessonspace_api:email'] = 'Emails are sent to API when joining a space in order correctly identify users on Lessonspace and provide accurate session tracking.';
+$string['privacy:metadata:lessonspace_api:name'] = 'Names are sent to our API when joing a space in order to allow for identification of the user when entering the Space.';
+$string['privacy:metadata:lessonspace_api:userid'] = 'User IDs are sent to our API when joinging a space in order to uniquely identify users in a space.';
 
 $string['search:activity'] = 'Lessonspace - activity information';
 $string['spacefinishedexplanation'] = 'This activity is finished and this space cannot be entered.';

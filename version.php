@@ -26,6 +26,6 @@ defined('MOODLE_INTERNAL') || die();
 
 $plugin->component = 'mod_lessonspace';
 $plugin->release   = '1.0.0';
-$plugin->version   = 2021041300;
+$plugin->version   = 2021050100;
 $plugin->requires  = 2019111800;
 $plugin->maturity  = MATURITY_BETA;

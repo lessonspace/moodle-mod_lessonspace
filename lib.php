@@ -29,6 +29,9 @@ require_once $CFG->dirroot.'/mod/lessonspace/lib.php';
 
 /**
  * Exception for 4xx response from the Lessonspace API.
+ *
+ * @copyright 2021 Lessonspace, Inc
+ * @license   https://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 class lessonspace_bad_request_exception extends moodle_exception
 {

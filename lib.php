@@ -84,7 +84,6 @@ function lessonspace_supports($feature)
 function lessonspace_add_instance($spaceinstance, mod_lessonspace_mod_form $mform = null)
 {
     global $CFG, $DB;
-    include_once $CFG->dirroot . '/mod/lessonspace/classes/apiservice.php';
     $service = new mod_lessonspace_api_service();
 
     $spaceinstance->timecreated = time();
